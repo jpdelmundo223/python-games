@@ -1,3 +1,3 @@
 ## Hangman
 ---
-![hangman-gif](.\gifs\ezgif.com-gif-maker.gif)
+![hangman-gif](https://github.com/jpdelmundo223/python-games/blob/master/hangman/gifs/ezgif.com-gif-maker.gif?raw=true)
