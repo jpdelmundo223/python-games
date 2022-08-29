@@ -12,7 +12,6 @@ Hangman is a simple word guessing game. Players try to figure out an unknown wor
 
 ### How to play
 - The hangman should consist of a head, a body, 2 arms, and 2 legs.
-- You are X, your friend (or the computer in this case) is O. ...
 - The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 - When all 9 squares are full, the game is over.
 
